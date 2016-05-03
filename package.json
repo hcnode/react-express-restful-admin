@@ -1,0 +1,53 @@
+{
+  "name": "react-express-restful-admin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --progress --profile --colors --watch",
+    "dev": "node server"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "bootstrap": "^3.3.6",
+    "express-restify-mongoose": "^4.0.2",
+    "fixed-data-table": "^0.6.0",
+    "history": "^2.0.0",
+    "jquery": "^2.2.2",
+    "jsoneditor": "^5.4.0",
+    "lodash": "^4.7.0",
+    "method-override": "^2.3.5",
+    "moment": "^2.12.0",
+    "mongoose": "^4.4.14",
+    "mongoose-auto-increment": "^5.0.1",
+    "mongoose-timestamp": "^0.5.0",
+    "mongoose-unique-validator": "^1.0.2",
+    "node-uuid": "^1.4.7",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "readmin": "latest",
+    "babel": "latest",
+    "babel-core": "latest",
+    "babel-loader": "latest",
+    "css-loader": "^0.19.0",
+    "express": "^4.13.3",
+    "express-urlrewrite": "^1.2.0",
+    "file-loader": "0.8.5",
+    "babel-preset-es2015": "latest",
+    "babel-preset-react": "latest",
+    "react": "^0.14.0",
+    "react-addons-css-transition-group": "^0.14.0",
+    "react-addons-test-utils": "0.14.0",
+    "react-dom": "^0.14.0",
+    "react-router": "^2.0.1",
+    "resolve-url-loader": "^1.4.3",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.12.4",
+    "url-loader": "0.5.7",
+    "webpack": "^1.4.13",
+    "webpack-dev-middleware": "^1.2.0"
+  },
+  "author": "hcnode@gmail.com",
+  "license": "MIT"
+}

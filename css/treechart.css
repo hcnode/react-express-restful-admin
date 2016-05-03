@@ -1,0 +1,31 @@
+
+  #vis {
+    width: 100%;
+    height: 300px; }
+
+  #nodeInfo {
+  	width: 960px;
+  	height: 100px
+  }
+
+  .node {
+    cursor: pointer; }
+
+  .node.leaf {
+    cursor: pointer; }
+
+  .node circle {
+    fill: lightsteelblue;
+    stroke: steelblue;
+    stroke-width: 1.5px; }
+
+  .node.leaf circle {
+    fill: #fff; }
+
+  .node text {
+    font-size: 11px; }
+
+  .link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1.5px; }
