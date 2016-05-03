@@ -14,7 +14,7 @@ Example of React, express, RESTFul api, admin
 * `npm install`
 * `npm run build`
 * `npm run dev` (depend local mongodb)
-* visit http://localhost:6001/
+* visit http://localhost:6002/
 
 ## About examples
 
