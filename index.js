@@ -20,11 +20,11 @@ readmin({
 	components: [
 		{
 			id: "product",
-			text: "货品管理",
+			text: "Product",
 			component: Product
 		},{
 			id: "order",
-			text: "订单管理",
+			text: "Order",
 			component: Order
 		}
 	],
@@ -36,7 +36,7 @@ readmin({
 
 	},
 	index: function () {
-		return <div>test index</div>;
+		return <div>index</div>;
 	},
 	containerId: 'container'
 });
