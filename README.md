@@ -7,4 +7,20 @@ Example of React, express, RESTFul api, admin
 * Mongodb and mongoose with RESTFul api to maintain the data
 * Simple admin UI with create, update, delete
 
-## Usage
+## Usages
+
+* `git clone https://github.com/hcnode/react-express-restful-admin`
+* `cd react-express-restful-admin`
+* `npm install`
+* `npm run build`
+* `npm run dev` (depend local mongodb)
+* visit http://localhost:6001/
+
+## About examples
+
+* the example represent two models: product and order 
+* schemes defined in /schema/collections/
+* react router defined in /index.js
+* react components defined in /components/
+* mongoose model defined in /server.js
+* that's all and roll it!

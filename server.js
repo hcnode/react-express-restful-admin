@@ -32,6 +32,7 @@ productSchema.plugin(autoIncrement.plugin, {
   field: 'pid',
   startAt: 100
 });
+
 orderSchema.plugin(autoIncrement.plugin, {
   model: 'Order',
   field: 'oid',
