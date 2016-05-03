@@ -27,3 +27,6 @@ Example of React, express, RESTFul api, admin
 
 ## Why there is no pagination?
 [fixed-data-table](https://github.com/facebook/fixed-data-table) declare they can `Handling huge amounts of data`, so there is no pagination, as you believe or not
+
+## Screenshot
+![screenshot]()
