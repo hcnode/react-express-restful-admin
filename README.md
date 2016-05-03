@@ -29,4 +29,4 @@ Example of React, express, RESTFul api, admin
 [fixed-data-table](https://github.com/facebook/fixed-data-table) declare they can `Handling huge amounts of data`, so there is no pagination, as you believe or not
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/hcnode/react-express-restful-admin/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/hcnode/react-express-restful-admin/master/screenshot1.png)
