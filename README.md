@@ -24,3 +24,6 @@ Example of React, express, RESTFul api, admin
 * react components defined in /components/
 * mongoose model defined in /server.js
 * that's all and roll it!
+
+## Why there is no pagination?
+[fixed-data-table](https://github.com/facebook/fixed-data-table) declare they can `Handling huge amounts of data`, so there is no pagination, as you believe or not
