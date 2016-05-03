@@ -19,10 +19,10 @@ Example of React, express, RESTFul api, admin
 ## About examples
 
 * the example represent two models: product and order 
-* schemes defined in /schema/collections/
-* react router defined in /index.js
-* react components defined in /components/
-* mongoose model defined in /server.js
+* schemes defined in `/schema/collections/`
+* react router defined in `/index.js`
+* react components defined in `/components/`
+* mongoose model defined in `/server.js`
 * that's all and roll it!
 
 ## Why there is no pagination?
