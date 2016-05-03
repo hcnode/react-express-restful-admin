@@ -13,12 +13,12 @@ Example of React, express, RESTFul api, admin
 * `cd react-express-restful-admin`
 * `npm install`
 * `npm run build`
-* `npm run dev` (depend local mongodb)
+* `npm run dev` (depend on local mongodb)
 * visit http://localhost:6002/
 
 ## About examples
 
-* the example represent two models: product and order 
+* the example include two models: product and order 
 * schemes defined in `/schema/collections/`
 * react router defined in `/index.js`
 * react components defined in `/components/`
